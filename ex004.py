@@ -1,4 +1,4 @@
-#Faça um programa que leia algo no teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
+#Faça um programa que leia algo no teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
 a=input('Digite Algo: ')
 #Lê e armazena o que foi digitado.
