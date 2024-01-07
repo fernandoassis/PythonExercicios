@@ -1,1 +1,1 @@
-Repositório onde adicionarei os exercícios ealizados no curso de Python da plataforma Curso em Vídeo.
+Repositório onde adicionarei os exercícios realizados no curso de Python da plataforma Curso em Vídeo.
