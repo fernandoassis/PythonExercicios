@@ -10,5 +10,5 @@ soma=num1+num2
 #Faz a soma dos números digitados
 
 print(f'A soma entre o número {num1} e o número {num2} é: {soma}')
-#Escreve na tela o resultado da soma
+#Escreve na tela o resultado da soma.
 #Obs: f é usado para possibilitar que os números digitados sejam escritos no texto do resultado.
