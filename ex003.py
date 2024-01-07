@@ -9,6 +9,6 @@ num2=float(input('Digite o segundo número da soma: '))
 soma=num1+num2
 #Faz a soma dos números digitados
 
-print(f'A soma entre o número {num1} e o número {num2} é: {soma}')
+print('A soma entre o número {} e o número {} é: {}' .format(num1, num2, soma))
 #Escreve na tela o resultado da soma.
-#Obs: f é usado para possibilitar que os números digitados sejam escritos no texto do resultado.
+#Obs: .format é usado para possibilitar que os números digitados sejam identificados em ordem no texto do resultado.
