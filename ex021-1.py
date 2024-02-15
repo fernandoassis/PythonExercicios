@@ -1,4 +1,4 @@
-#Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3.
+#Faça um programa em Python que abra e reproduza o áudio de um arquivo MP3:
 # Será tocada a música: The Imperial March (Darth Vader's Theme)
 #Importa as bibliotecas pygame e time. Pode ser que precise instalar a biblioteca pygame
 import pygame
