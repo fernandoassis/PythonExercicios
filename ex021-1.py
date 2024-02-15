@@ -14,5 +14,5 @@ while pygame.mixer.music.get_busy():
     time.sleep(1)
 #Neste código, adicionamos um loop while que aguarda até que a música tenha terminado de tocar antes de encerrar o programa. 
 #O time.sleep(1) faz com que o programa aguarde 1 segundo antes de verificar se a música ainda está tocando. 
-#Isso garante que o programa aguarde a reprodução completa da música antes de encerrar o pygame.
+#Isso garante que o programa aguarde a reprodução completa da música antes de encerrar o pygame
 pygame.quit()
