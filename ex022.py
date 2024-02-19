@@ -3,9 +3,9 @@
 #– Quantas letras ao todo (sem considerar espaços).
 #– Quantas letras tem o primeiro nome.
 
-frase = str(input('escreva seu nome completo: ')).strip()
-print('Seu nome em letras maiúsculas é: {}' .format(frase.upper()))
-print('Seu nome em letrars minúsculas é: {}' .format(frase.lower()))
-print('Seu nome tem ao todo {} letras.' .format(len(frase) - frase.count(' ')))
-nome = frase.split()
-print('Seu primeiro nome é: {} e tem {} letras' .format(nome[0], len(nome[0])))
+nome = str(input('escreva seu nome completo: ')).strip()
+print('Seu nome em letras maiúsculas é: {}' .format(nome.upper()))
+print('Seu nome em letrars minúsculas é: {}' .format(nome.lower()))
+print('Seu nome tem ao todo {} letras.' .format(len(nome) - nome.count(' ')))
+separado = nome.split()
+print('Seu primeiro nome é: {} e tem {} letras' .format(separado[0], len(separado[0])))
